@@ -2,7 +2,8 @@
 - 👀 I’m interested in Vidéo
 - 🌱 I’m currently learning IS-11
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me @ Matrox
+- 📫 I don't want spam, I have enough of it !
+- 📫 You can reach me gwgeorgea@matrox.com, just remove the w in the e-mail
 
 <!---
 gwgeorgea/gwgeorgea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
